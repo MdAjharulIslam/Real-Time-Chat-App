@@ -1,6 +1,6 @@
 # MERN Stack Real-Time Chat App
 
-📌 Description
+ #📌 Description
 
 This is a full-stack real-time chat application built using the MERN (MongoDB, Express, React, Node.js) stack. It enables users to chat in real-time, see who is online, send images and emojis, receive notifications, and update their profile pictures. Profile pictures and other images are securely stored using Cloudinary. The app features a responsive UI and a secure backend to ensure a seamless and safe chatting experience.
 
