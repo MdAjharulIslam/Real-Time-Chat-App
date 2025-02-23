@@ -7,16 +7,27 @@ This is a full-stack real-time chat application built using the MERN (MongoDB, E
 ## Features
 
 -🚀 Live demo available  https://real-time-chat-app-3jvq.onrender.com
+
 -💬 Real-time messaging with WebSockets (Socket.io)
+
 -🔐 User authentication (JWT-based authentication using strong user authentication)
+
 -📸 Profile picture upload and update
+
 -☁️ Profile picture storage on Cloudinary
+
 -🎨 Responsive UI built with React, Tailwind CSS, and DaisyUI
+
 -🖼️ Users can send image files
+
 -😀 Users can send emojis
+
 -🟢 Users can see who is online now
+
 -📢 Notifications using React-Toastify
+
 -🛡️ Secure backend with Node.js and Express
+
 -📦 MongoDB for data storage
 
 ## Technologies Used
